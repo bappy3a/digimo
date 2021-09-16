@@ -1,0 +1,819 @@
+.promotional-modal-content-wrapper .left-content-warp {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.nx-modal-content {
+    text-align: right
+}
+
+.nx-modal-inner-content-wrapper .nx-popup-close {
+    right: auto;
+    left: 10px
+}
+
+.preloader-inner .cancel-preloader {
+    right: auto;
+    left: 30px
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+    margin-right: 20px;
+    margin-left: 0
+}
+
+.experience-right .vdo-btn {
+    left: 30%
+}
+
+.experience-content .offset-lg-3 {
+    margin-left: 0 !important
+}
+
+.quality-content-wrapper {
+    margin-left: 0;
+    margin-right: 100px
+}
+
+.quality-content-wrapper {
+    margin-left: 0;
+    margin-right: 100px
+}
+
+.singler-counterup-item-01 .icon {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.case-studies-slider-active .owl-item.center .slider-inner-text, .desktop-left, .header-area .header-inner, .map-wrapper .contact-wrapper, .single-blog-grid-01 .content, .singler-counterup-item-01 {
+    text-align: right
+}
+
+.single-blog-grid-01 .content .post-meta li + li {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.widget .recent_post_item li.single-recent-post-item .thumb {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.widget.footer-widget {
+    text-align: right
+}
+
+.newsletter-form-wrap .submit-btn {
+    right: auto;
+    left: 0
+}
+
+.newsletter-form-wrap .form-group .form-control {
+    padding-left: 40px
+}
+
+.contact_info_list li.single-info-item .icon {
+    left: auto;
+    right: 0
+}
+
+.contact_info_list li.single-info-item .details {
+    padding-left: 0;
+    padding-right: 30px
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu {
+    text-align: right
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li {
+    margin-right: 0
+}
+
+.xg-mega-menu-single-column-wrap {
+    text-align: right
+}
+
+.xg-mega-menu-single-column-wrap ul .single-mega-menu-product-item .thumbnail {
+    margin-right: 0;
+    margin-left: 15px
+}
+
+.xg-mega-menu-single-column-wrap ul .single-mega-menu-product-item {
+    margin-right: 0
+}
+
+.xg-mega-menu-single-column-wrap ul li {
+    margin-right: 0 !important
+}
+
+.single-donation-mega-menu-item .thumbnail {
+    margin-right: 0;
+    margin-left: 20px;
+    max-width: 80px
+}
+
+.single-donation-mega-menu-item .title {
+    text-align: right
+}
+
+.back-to-top {
+    right: auto;
+    left: 30px
+}
+
+.order-service-page-content-area {
+    text-align: right
+}
+
+.payment-gateway-wrapper ul li {
+    min-width: 100px
+}
+
+.order-confirm-area table {
+    text-align: right
+}
+
+.single-testimonial-item-02 .content .content-wrapper {
+    text-align: right
+}
+
+.single-testimonial-item-02 .icon {
+    right: auto;
+    left: 50px
+}
+
+.single-testimonial-item-02 .content .author-details .author-meta {
+    flex: unset;
+    text-align: right;
+    margin-right: 20px
+}
+
+.breadcrumb-area .page-list li:after {
+    left: auto;
+    right: 10px
+}
+
+.breadcrumb-area .page-list li {
+    padding-left: 0;
+    padding-right: 30px
+}
+
+.experience-content-03, .teastimonial-item-09 .bottom-content .ratings, .teastimonial-item-09 .bottom-content p, .teastimonial-item-09 .clients-details {
+    text-align: right
+}
+
+.top-experience-area .offset-lg-1 {
+    margin-right: 8.333333%;
+    margin-left: 0 !important
+}
+
+.experience-content-03 .icon-area p {
+    margin-left: 0;
+    margin-right: 15px
+}
+
+.global-network-area {
+    text-align: right
+}
+
+.experience-content-02 {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 100px
+}
+
+.experience-content-02 .sign-area::after {
+    left: auto;
+    right: -40px
+}
+
+.attorney-contact-form-wrap .attorney-contact-form .form-group .form-control, .portfolio-details-item, .quality-content-wrapper, .related-work-area .title, .service-widget, .single-related-case-study-item .content .title {
+    text-align: right
+}
+
+.service-widget:before {
+    left: auto;
+    right: 0
+}
+
+.service-widget .service-icon {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.case-studies-menu li + li {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.accordion-wrapper .card .card-body, .accordion-wrapper .card .card-header a, .single-job-details, .single-job-list-item, .widget.job_information, .widget.widget_nav_menu {
+    text-align: right
+}
+
+.accordion-wrapper .card .card-header a:after {
+    right: auto;
+    left: 30px
+}
+
+.contact-page-form, .contribute-single-item .content, .donation_wrapper {
+    text-align: right
+}
+
+.widget_search .search-form .submit-btn {
+    left: 0;
+    right: auto;
+    border-radius: 0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px
+}
+
+.widget_search .search-form .form-group .form-control {
+    padding-right: 20px;
+    padding-left: 70px
+}
+
+.job-meta-list li .single-job-meta-block ul li:before {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.job-meta-list li .single-job-meta-block ul li:before {
+    content: "\f104"
+}
+
+.job-information-list li .single-job-info .icon {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.blog-classic-item-01, .blog-details-item, .knowledgebase-content-area, .related-post-area, .related-product-area .title, .single-events-list-item .content-area, .single-knowledgebase-details, .single-knowledgebase-list-item, .single-product-details, .single-product-item-3 .content, .widget.widget_nav_menu, .widget.widget_price_filter, .widget.widget_rating_filter, .widget.widget_recent_posts {
+    text-align: right
+}
+
+.single-job-list-item .job_type i {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.single-job-list-item .jobs-meta li i {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.single-job-list-item .jobs-meta li + li {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.donation_wrapper .amount_wrapper input {
+    border-radius: 8px 0 0 8px
+}
+
+.single-events-list-item .content-area .top-part .time-wrap {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.single-events-list-item .thumb {
+    margin-right: 0;
+    margin-left: 30px
+}
+
+.single-product-item-3 .thumb .tag {
+    left: auto;
+    right: 0
+}
+
+.product-archive-top-content-area .search-form button {
+    right: auto;
+    left: 0
+}
+
+.product-archive-top-content-area .search-form .form-control {
+    padding-right: 20px;
+    padding-left: 70px
+}
+
+.single-product-details .top-content > div:first-child {
+    margin-right: 0;
+    margin-left: 30px
+}
+
+.single-product-details .extra-content-wrap .nav-tabs .nav-item:first-child {
+    border-top-right-radius: 5px
+}
+
+.single-product-details .extra-content-wrap .nav-tabs .nav-item + .nav-item {
+    border-left: none;
+    border-right: 1px solid #e2e2e2
+}
+
+.blog-details-item .post-meta li + li {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.blog-details-footer .right .social-share li.title {
+    margin-left: 10px
+}
+
+.blog-classic-item-01 .content .post-meta li + li {
+    margin-left: 0;
+    margin-right: 10px
+}
+
+.experience-content-03 .icon-area .icon {
+    transform: inherit
+}
+
+.single-donation-mega-menu-item .content .boxed-btn {
+    text-align: center
+}
+
+.single-testimonial-item-03 .content .description {
+    padding-right: 0
+}
+
+.single-testimonial-item-03 .content {
+    padding-right: 0;
+    padding-left: 40px;
+    text-align: right
+}
+
+.header-area.header-bg-02:after {
+    background-image: url(../img/bg/bg-03-rtl.png)
+}
+
+.navbar-area .nav-container .nav-right-content ul li:last-child {
+    margin-right: 15px
+}
+
+.top-bar-area.header-variant-06 .top-bar-inner {
+    padding-left: 0;
+    padding-right: 205px
+}
+
+.header-inner.logistics-home {
+    text-align: center
+}
+
+.single-logistic-key-feature-one:after {
+    right: auto;
+    left: 0
+}
+
+.logistic-faq-wrapper, .logistic-get-quote, .logistics-single-what-we-cover-item .content, .single-expertice-area, .single-portfolio-blog-grid.logistics-page .content {
+    text-align: right
+}
+
+.logistic-single-testimonial-item .content {
+    padding-right: 0;
+    padding-left: 40px
+}
+
+.portfolio-home-header-area .right-image {
+    right: auto;
+    left: 15%
+}
+
+.portfolio-about-us-section .right-content-area, .portfolio-cta-area .left-content-wrap, .portfolio-home-header-area .header-inner, .single-counterup-03, .single-portfolio-blog-grid, .single-portfolio-testimonial-item {
+    text-align: right
+}
+
+.portfolio-btn i {
+    margin-left: 0;
+    margin-right: 25px
+}
+
+.single-counterup-03 .number:after {
+    left: auto;
+    right: 0
+}
+
+.portfolio-about-us-section .button-wrap a + a {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.single-we-offer-item {
+    margin-left: 0;
+    margin-right: 30px;
+    text-align: right
+}
+
+.single-we-offer-item .icon {
+    left: auto;
+    right: -30px
+}
+
+.industry-top-right-list li + li {
+    margin-left: 0;
+    margin-right: 30px
+}
+
+.header-style-03.header-variant-07 .responsive-mobile-menu:after {
+    right: auto;
+    left: -70px
+}
+
+.header-style-03.header-variant-07 .responsive-mobile-menu {
+    margin-right: 0;
+    margin-left: 80px
+}
+
+.industry-single-info-item {
+    text-align: right
+}
+
+.industry-single-info-item .icon {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.industry-info-items li + li {
+    margin-left: 0;
+    margin-right: 30px
+}
+
+a.industry-btn {
+    padding-left: 10px;
+    padding-right: 30px
+}
+
+.industry-btn:after {
+    right: auto;
+    left: -10px
+}
+
+.industry-btn i {
+    padding-left: 0;
+    padding-right: 15px
+}
+
+.cagency-single-what-we-cover-item .content, .const-single-case-study-style-02 .cart-icon, .const-single-testimonial-item .author-details, .const-single-testimonial-item .content, .construction-single-info-list-item, .industry-about-area .right-content-area, .industry-project-area .section-title, .industry-single-what-we-cover-item, .industry-testimonial-area .section-title, .logistic-project-area .section-title {
+    text-align: right
+}
+
+.industry-about-area .left-content-wrap .industry-video-wrap {
+    right: auto;
+    left: 60px
+}
+
+.industry-about-area .left-content-wrap .vertical-image {
+    left: auto;
+    right: -30px
+}
+
+.construction-project-nav, .industry-testimonial-carousel-nav, .project-carousel-nav {
+    justify-content: flex-start;
+    flex-direction: row-reverse
+}
+
+.industry-single-case-studies-item .content {
+    left: auto;
+    right: 0;
+    text-align: right
+}
+
+.industry-single-testimonial-item .content {
+    padding-right: 0;
+    padding-left: 40px
+}
+
+.industry-single-testimonial-item .thumb .author-details {
+    left: auto;
+    right: -70%
+}
+
+.logistic-dots .owl-dots div + div, .pcarousel-dots .owl-dots div + div {
+    margin-left: 0;
+    margin-right: 10px
+}
+
+.navbar-area .nav-container .nav-right-content ul {
+    margin-left: 0;
+    margin-right: 15px
+}
+
+.cagency-header-static .header-area .right-image {
+    right: auto;
+    left: 0
+}
+
+.cagency-header-static .header-area .right-image img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 80px
+}
+
+.cagency-header-static .shape-image.shape-02 {
+    left: 51%;
+    top: 70%
+}
+
+.cagency-header-static .shape-image.shape-01 {
+    left: auto;
+    top: 30%;
+    right: 5%
+}
+
+.cagency-single-what-we-cover-item .icon {
+    left: auto;
+    right: 30px
+}
+
+.cagency-work-process-list .single-work-process-item .num-wrap:before {
+    left: -150px;
+    right: auto
+}
+
+.creative-agency-call-to-action .right-image-wrap {
+    right: auto;
+    left: 0
+}
+
+.cagency-cta-area-inner, .cagency-single-testimonial-item .author-details .content, .construction-about-area .right-content-area {
+    text-align: right
+}
+
+.creative-agency-call-to-action .right-image-wrap img {
+    border-top-left-radius: 0;
+    border-top-right-radius: 80px
+}
+
+.creative-agency-testimonial-area {
+    padding-top: 200px
+}
+
+.cagency-single-testimonial-item .author-details .thumb {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.header-area.construction-home.header-bg-04:after {
+    background-image: linear-gradient(-100deg, #ffbc13, transparent)
+}
+
+.construction-video-wrap .experience-wrap {
+    left: auto;
+    right: -50px
+}
+
+.construction-quote-area .right-image {
+    right: auto;
+    left: 5%
+}
+
+.construction-single-info-list-item .icon {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.construction-support-area .support-inner .right-content-wrap ul li + li {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.construction-info-list li + li {
+    margin-left: 0;
+    margin-right: 20px
+}
+/* home page 10 */
+li.lawyer-contact-item,
+.lawyer-contact-area .right-content-wrap .title,
+.appointment-single-item,
+.construction-single-what-we-cover-item,
+.construction-single-what-we-cover-item.lawyer-home
+{
+    text-align: right;
+}
+
+li.lawyer-contact-item .icon {
+    margin-right: 0;
+    margin-left: 30px;
+}
+.lawyer-about-area .right-content-area {
+    padding-left: 0;
+    padding-right: 50px;
+    text-align: right;
+}
+/* home page 11 */
+.header-area.cdesign-agency-home .right-image-wrap {
+    right: auto;
+    left: -6%;
+}
+
+.dagency-cta-area .right-image-area {
+    right: auto;
+    left: -16px;
+}
+
+.dagency-info-list li .icon {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.dagency-info-list li,
+.dagency-cta-area {
+    text-align: right;
+}
+/* home 11 */
+.header-area.political-home .left-image-wrap {
+    left: auto;
+    right: 5%;
+}
+
+.lawyer-about-area .left-content-area {
+    margin-right: 0;
+    margin-left: 80px;
+    text-align: right;
+}
+.political-single-what-we-cover-item .content {
+    text-align: right;
+}
+
+.logistic-single-testimonial-item.political-home:before {
+    right: auto;
+    left: 0;
+}
+
+.logistic-single-testimonial-item {
+    text-align: right;
+}
+/* home 12 */
+.header-area.medical-home .right-image-wrap {
+    right: auto;
+    left: 5%;
+}
+.medical-about-area .left-content-area {
+    text-align: right;
+}
+.appointment-single-item .thumb .cat {
+    left: auto;
+    right: 10px;
+}
+
+.appointment-inner-area .left-content-area {
+    padding-left: 40px;
+    padding-right: 0;
+    text-align: right;
+}
+.appointment-inner-area .right-content-area {
+    padding-left: 0;
+    padding-right: 40px;
+}
+.medical-home-counterup-item {
+    text-align: right;
+}
+
+.medical-home-counterup-item .icon {
+    margin-right: 0;
+    margin-left: 30px;
+}
+.const-single-case-study-style-02 .cart-icon {
+    background-size: cover;
+}
+
+.logistic-single-testimonial-item .content .author-details {
+    border-left: none;
+    border-right: 4px solid var(--medical-color);
+    padding-right: 20px;
+}
+/* home 13 */
+.header-area.charity-home .right-image-wrap {
+    right: auto;
+    left: -10%;
+}
+
+.header-slider-wrapper.charity-home .owl-dots {
+    left: auto;
+    right: 50px;
+}
+.charity-about-area .left-content-area,
+.single-popular-cause-item .content,
+.charity-team-single-item .thumb .content,
+.charity-cta-area .cta-area-inner,
+.charity-single-event-item-wrap .content{
+    text-align: right;
+}
+/* home 15 */
+.header-slider-wrapper.fruits-home .right-image-wrap {
+    right: auto;
+    left: 1%;
+}
+.offer-item-wrap .content-warp {
+    text-align: right;
+}
+
+.offer-item-wrap .offer-btn:after {
+    left: auto;
+    right: 0;
+}
+
+.fruits-home-single-testimonial-item {
+    text-align: right;
+}
+
+.fruits-home-single-testimonial-item .author-details .thumb {
+    margin-left: 30px;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.fruits-home-single-testimonial-item .author-details .thumb img {
+    margin-right: 0;
+}
+
+
+.single-top-selling-product .img-wrapper {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.single-top-selling-product {
+    text-align: right;
+}
+/* home 16 */
+.header-slider-wrapper.cleaning-home .right-image-wrap {
+    right: auto;
+    left: -20%;
+}
+.cleaning-about-area-wrap .right-content-wrap {
+    margin-left: 0;
+    margin-right: 30px;
+    text-align: right;
+}
+.single-cleaning-service-item,
+.estimate-area-wrap.cleaning-home .top-part .left-content-wrap,
+.cagency-single-testimonial-item .description{
+    text-align: right;
+}
+
+
+.single-cleaning-service-item .thumb .icon {
+    left: auto;
+    right: 20px;
+}
+/* home 17 */
+.header-slider-wrapper.course-home .right-image-wrap {
+    right: auto;
+    left: 0;
+}
+.course-single-grid-item .content {
+    text-align: right;
+}
+
+.course-single-grid-item .content .instructor-wrap span {
+    padding-right: 0;
+    padding-left: 5px;
+}
+.course-single-grid-item .thumb .cat {
+    left: auto;
+    right: 20px;
+}
+
+.section-title.course-home {
+    text-align: right;
+}
+
+.section-title.course-home .title:after {
+    left: auto;
+    right: 0;
+}
+
+.btn-wrapper.desktop-right.course-home {
+    text-align: left;
+}
+.course-inner-area-wrap .title {
+    text-align: right;
+}
+
+/* course module */
+
+.course-details-content-area,
+.content-lesson-outer-wrap{
+    text-align: right;
+}
+.instructor-wrap .content-wrap {
+    margin-left: 0;
+    margin-right: 40px;
+}
+.single-curriculum-item .card-header .lesson-count {
+    right: auto;
+    left: 20px;
+}
+
+
+.appointment-content-area .top-search-wrapper .left-part .search-wrapper {
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+.appointment-details-item .top-part .thumb {
+    margin-right: 0;
+    margin-left: 40px;
+}
+
+.appointment-details-item {
+    text-align: right;
+}

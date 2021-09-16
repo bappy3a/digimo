@@ -1,0 +1,8 @@
+1. create a page called homepage . dont write anything inside.
+2.go back to the cutomize under the homepage settings choose home page whther page ich u created above.
+3. make sure all the post have feature images and seprate the categories dont put every post under one category.
+4.get special image sizing for the post u will use in slider category. 1600 x 600. 
+5. decide what u want under the footer,
+6.get extra blog template.
+7. sports magazine or news world. any magazine template.
+8.another page for view-testimonial. create page for application-form, carrer-page

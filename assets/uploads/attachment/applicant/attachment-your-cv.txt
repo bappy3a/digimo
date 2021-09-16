@@ -1,0 +1,13 @@
+This is a step-by-step guide for all novices (know a few ppl who are havin trouble)
+
+Mount the file onto a virtual drive using a program like demonoid or burn to a disc.
+
+Go to 'computer', right click on the disc the file is mounted or burned to and click 'Explore'. Then copy everything to the hard drive by drag and drop on the desktop etc.
+
+Go into the copyied folder 'Adobe CS4' and double click 'Setup' to install.
+
+When asked for the registration number, open the keygen file and click generate for the registration number.
+
+Once fully installed DO NOT RUN ANY PROGRAMS. Go into computer\c drive\Program Files\Adobe. Now copy the file called 'amtlib.dll' found inside the copyed master collection folder. Now go into every adobe folder you installed on the c drive\program files\adobe e.g. photoshop, flash etc. and search for the file with the same name (amtlib.dll) then paste and replace.
+
+That shoud do it. 
