@@ -170,64 +170,7 @@
     </div>
 <?php endif; ?>
 
-<?php if(!empty(filter_static_option_value('home_page_team_member_section_status',$static_field_data))): ?>
-    <div class="const-team-member-area padding-top-120 padding-bottom-120 ">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title desktop-center margin-bottom-60 charity-home">
-                        <span class="subtitle"><?php echo e(filter_static_option_value('home_page_13_'.$user_select_lang_slug.'_team_member_section_subtitle',$static_field_data)); ?></span>
-                        <h2 class="title"><?php echo e(filter_static_option_value('home_page_13_'.$user_select_lang_slug.'_team_member_section_title',$static_field_data)); ?></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="team-member-carousel-area margin-top-10 ">
-                        <div class="industry-member-carousel global-carousel-init logistic-dots lawyer-home"
-                             data-loop="true"
-                             data-desktopitem="4"
-                             data-mobileitem="1"
-                             data-tabletitem="2"
-                             data-dots="true"
-                             data-autoplay="true"
-                             data-stagepadding="0"
-                             data-margin="30"
-                        >
-                            <?php $a=0; ?>
-                            <?php $__currentLoopData = $all_team_members; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $data): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
-                                <div class="charity-team-single-item">
-                                    <div class="thumb">
-                                        <?php echo render_image_markup_by_attachment_id($data->image); ?>
 
-                                        <div class="content style-<?php echo e($a); ?>">
-                                            <h4 class="title"><?php echo e($data->name); ?></h4>
-                                            <span><?php echo e($data->designation); ?></span>
-                                            <?php
-                                                $social_fields = array(
-                                                    'icon_one' => 'icon_one_url',
-                                                    'icon_two' => 'icon_two_url',
-                                                    'icon_three' => 'icon_three_url',
-                                                );
-                                            ?>
-                                            <ul class="social-icons">
-                                                <?php $__currentLoopData = $social_fields; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $key => $value): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
-                                                    <li><a href="<?php echo e($data->$value); ?>"><i class="<?php echo e($data->$key); ?>"></i></a>
-                                                    </li>
-                                                <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <?php ($a == 4) ? $a= 1 : $a++; ?>
-                            <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-<?php endif; ?>
 
 <?php if(!empty(filter_static_option_value('home_page_call_to_action_section_status',$static_field_data))): ?>
     <div class="charity-cta-area"

@@ -187,7 +187,7 @@
     </div>
 @endif
 
-@if(!empty(filter_static_option_value('home_page_team_member_section_status',$static_field_data)))
+{{-- @if(!empty(filter_static_option_value('home_page_team_member_section_status',$static_field_data)))
     <div class="const-team-member-area padding-top-120 padding-bottom-120 ">
         <div class="container">
             <div class="row justify-content-center">
@@ -243,7 +243,7 @@
             </div>
         </div>
     </div>
-@endif
+@endif --}}
 
 @if(!empty(filter_static_option_value('home_page_call_to_action_section_status',$static_field_data)))
     <div class="charity-cta-area"

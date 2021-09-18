@@ -146,7 +146,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 mt-5">
+            <div class="col-lg-5 mt-5">
                 <div class="card">
                     <div class="card-body">
                         <h4 class="header-title">{{__('Add New Image')}}</h4>
@@ -188,6 +188,9 @@
                         </form>
                     </div>
                 </div>
+            </div>
+            <div class="col-lg-1">
+                <img src="">
             </div>
         </div>
     </div>
